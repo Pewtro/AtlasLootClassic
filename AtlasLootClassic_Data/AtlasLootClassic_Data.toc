@@ -1,6 +1,6 @@
-﻿## Interface: 30403
+## Interface: 30403
 ## Author: Lag
-## Version: @project-version@
+## Version: v1.1.1
 ## Dependencies: AtlasLootClassic
 ## LoadOnDemand: 1
 
@@ -29,8 +29,8 @@
 ## Notes-zhTW: @localization(locale="zhTW", key="Notes-Data", namespace="ToC")@
 #@end-non-debug@
 #@debug@
-## Title: AtlasLootClassic |cFFFF0000[Data]|r
-## Notes: AtlasLoot data module
+# ## Title: AtlasLootClassic |cFFFF0000[Data]|r
+# ## Notes: AtlasLoot data module
 #@end-debug@
 
 ## X-Category: Map

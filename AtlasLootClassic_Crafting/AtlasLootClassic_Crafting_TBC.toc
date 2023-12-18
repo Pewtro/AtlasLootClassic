@@ -1,6 +1,6 @@
 ## Interface: 20504
 ## Author: Lag
-## Version: @project-version@
+## Version: v1.1.1
 ## Dependencies: AtlasLootClassic
 ## LoadOnDemand: 1
 
@@ -29,8 +29,8 @@
 ## Notes-zhTW: @localization(locale="zhTW", key="Notes-Crafting", namespace="ToC")@
 #@end-non-debug@
 #@debug@
-## Title: AtlasLootClassic |cFF0099FF[Crafting]|r
-## Notes: AtlasLoot loot tables of Crafting Items
+# ## Title: AtlasLootClassic |cFF0099FF[Crafting]|r
+# ## Notes: AtlasLoot loot tables of Crafting Items
 #@end-debug@
 
 ## X-Category: Map
